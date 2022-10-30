@@ -1,0 +1,3 @@
+sum 20
+neg
+mult -9

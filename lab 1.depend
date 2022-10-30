@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1352837708 source:c:\users\rulloaf\desktop\1\lab 1\main.cpp
+	<iostream>
+	"clsDatosEntrada.h"
+
+1352837432 c:\users\rulloaf\desktop\1\lab 1\clsdatosentrada.h
+	<string>
+
+1352837662 source:c:\users\rulloaf\desktop\1\lab 1\clsdatosentrada.cpp
+	<stdlib.h>
+	<fstream>
+	<string>
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<string.h>
+	"parametros.h"
+	"clsDatosEntrada.h"
+
+1352831032 c:\users\rulloaf\desktop\1\lab 1\parametros.h
+
